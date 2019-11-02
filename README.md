@@ -1,4 +1,6 @@
 # Unturned-Docker
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjulien040%2Funturned-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjulien040%2Funturned-docker?ref=badge_shield)
+
 This repository contains scripts for installing 64bit Unturned Linux with .NET 4.6.1 (optionally using Docker). It also uses Unturned .NET 4.6.1 versions.
 
 # Getting Started
@@ -49,3 +51,7 @@ Finally, run `init.sh` to install / update your server. It will automatically st
 ```sh
 $ ./init.sh
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjulien040%2Funturned-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjulien040%2Funturned-docker?ref=badge_large)
